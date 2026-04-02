@@ -1,4 +1,6 @@
 # Customer Trends Data Analysis
+<img width="1385" height="708" alt="image" src="https://github.com/user-attachments/assets/02f60476-3ede-4245-9219-5c953497c677" />
+
 
 A comprehensive data analysis project exploring customer shopping behavior patterns using SQL, Python, and data visualization tools. This project analyzes 3,900 customer records to uncover insights about purchasing trends, customer segmentation, and revenue drivers.
 
